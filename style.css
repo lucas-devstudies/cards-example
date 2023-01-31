@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #FEEAD1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cards{
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-evenly;
+    margin-left: 80px;
+    margin-right: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    grid-column: 3;
+    max-width: 1196px;
+    margin-bottom: 75px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    width: 345px;
+    height: 400px;
+    margin-top: 75px;
+    background-color: white;
+    padding: 40px;
+    justify-content: center;
+    align-content: center;
+    
+}
+.card img{
+    width: 80px;
+    height: 80px;
+    margin: 36px 93px 0px 93px;
+}
+.card h2{
+    width: 240px;
+    height: 32px;
+    margin-top: 16px;
+    align-items: center;
+    text-align: center;
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 575;
+    font-size: 16px;
+    line-height: 32px;
+}
+.card p{
+    width: 240px;
+    height: 36px;
+    margin-top: 27px;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    align-items: center;
+    text-align: center;
+}
+.card button{
+    width: 240px;
+    height: 60px;
+    margin-top: 34px;
+    background: #F8D2A3;
+    border-radius: 10px;
+    border: transparent;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}

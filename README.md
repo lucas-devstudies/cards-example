@@ -4,7 +4,9 @@
 
 Aplicativo para treinar o web e design
 
+
 🛠️ Ferramentas
+
 -[x] Figma;
 
 -[x] Html;
@@ -12,6 +14,7 @@ Aplicativo para treinar o web e design
 -[x] Css
 
 -[x] Javascript
+
 
 🎨Modelo do Design
 

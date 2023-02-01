@@ -5,10 +5,14 @@
 Aplicativo para treinar o web e design
 
 🛠️ Ferramentas
--[x] Figma
--[x] Html
+-[x] Figma;
+
+-[x] Html;
+
 -[x] Css
+
 -[x] Javascript
 
 🎨Modelo do Design
+
 [Clique aqui para ver o design do projeto](https://www.figma.com/file/muKjTq7bGC00oCoS1pfujm/Cards?nod-id=1%3A2&t=RSAs3jC3AVbcsyun-1)

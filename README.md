@@ -2,7 +2,7 @@
 
 # cards-example
 
-Site para treinar web e design
+Site desenvolvido para treinar web e design para fins acadêmicos
 
 
 ***
